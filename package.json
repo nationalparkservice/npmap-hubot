@@ -9,6 +9,7 @@
     "hubot-basecamp": "^0.6.1",
     "hubot-business-cat": "^1.2.5",
     "hubot-diagnostics": "0.0.1",
+    "hubot-google-hangouts": "^0.7.1",
     "hubot-google-images": "^0.2.2",
     "hubot-google-translate": "^0.2.0",
     "hubot-help": "^0.1.1",
