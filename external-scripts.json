@@ -8,6 +8,7 @@
   "hubot-google-images",
   "hubot-google-translate",
   "hubot-heroku-keepalive",
+  "hubot-instagram",
   "hubot-pugme",
   "hubot-maps",
   "hubot-redis-brain",
