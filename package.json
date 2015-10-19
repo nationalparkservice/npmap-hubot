@@ -7,7 +7,6 @@
   "dependencies": {
     "hubot": "^2.16.0",
     "hubot-basecamp": "^0.6.1",
-    "hubot-business-cat": "^1.2.5",
     "hubot-circleci": "^0.8.1",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-hangouts": "^0.7.1",
